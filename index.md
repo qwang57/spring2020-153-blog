@@ -1,14 +1,17 @@
-## Welcome to GitHub Pages
+## Spring2020 STAT153 Project blog
 
 You can use the [editor on GitHub](https://github.com/qwang57/spring2020-153-blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+With the development of the world, Mediocre social network is getting worse and worse. It can be reflected from the stock price as follows.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
+
 Syntax highlighted code block
 
 # Header 1
